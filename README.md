@@ -1,5 +1,5 @@
 # HR-Data-Analysis
-A visually interactive HR Analytics Dashboard built to analyze employee data such as headcount trends, salary distribution, leave balance, and education-wise insights.
+A visually interactive HR Analytics Dashboard built to analyze employee data <br> such as headcount trends, salary distribution, leave balance, and education-wise insights.
 
 # 🔍 Key Insights -
 - Total Employees: 161
